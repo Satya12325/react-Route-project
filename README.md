@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+<img src="https://github.com/Satya12325/react-Route-project/blob/master/screencapture-localhost-3001-home-2022-01-03-15_51_21.png" alt=""/>
 In the project directory, you can run:
 
 ### `npm start`
